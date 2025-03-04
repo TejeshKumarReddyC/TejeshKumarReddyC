@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TejeshKumarReddyC
-- 👀 I’m interested in Cloud & scripting
+- 👀 I’m interested in Cloud & Scripting
 - 🌱 I’m currently learning AWS
 - 😄 Pronouns: He/Him
 
