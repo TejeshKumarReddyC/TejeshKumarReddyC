@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TejeshKumarReddyC
 - 👀 I’m interested in Cloud, Scripting & DevOps 
-- 🌱 I’m currently learning Azure & AWS cloud
+- 🌱 I’m currently learning Azure, AWS cloud & AI
 - 😄 Pronouns: He/Him
 - 🥇 AWS Certified SAA 
 
